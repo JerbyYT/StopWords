@@ -5,5 +5,5 @@ branches:
 projects:
   StopWords:
     path: ""
-    logo: stopword.png
+    icon: stopword.png
 ...
