@@ -1,0 +1,40 @@
+#############################################################
+#                                                           #
+#             _           _        __     _________         #
+#            | |         | |       \ \   / /__   __|        #
+#            | | ___ _ __| |__  _   \ \_/ /   | |           #
+#        _   | |/ _ \ '__| '_ \| | | \   /    | |           #
+#       | |__| |  __/ |  | |_) | |_| || |     | |           #
+#        \____/ \___|_|  |_.__/ \__, ||_|     |_|           #
+#                                __/ |                      #
+#                               |___/                       #
+#                                                           #
+#############################################################
+
+# Farbig schreiben mit § + Farbcode!
+# Zumbeispiel §c für hell Rot.
+
+nachricht: "§cDieses Wort ist auf diesem Server verboten!"
+
+Words:
+  - .com
+  - .de
+  - .tk
+  - .gg
+  - .net
+  - .tc
+  - adolf
+  - hurensohn
+  - wichser
+  - wixxer
+  - huso
+  - missgeburt
+  - kid
+  - noob
+  - hitler
+  - penis
+  - muschi
+  - scheiße
+  - scheisse
+  - scheise
+  - fuck

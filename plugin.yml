@@ -1,0 +1,5 @@
+name: StopWords
+author: JerbyYT
+version: 1.0.0
+main: JerbyYT\sw\Main
+api: ["3.0.0", "4.0.0"]
