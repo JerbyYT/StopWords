@@ -15,4 +15,4 @@ Link: https://discord.gg/sPSquup
 <a href="https://poggit.pmmp.io/p/StopWords"><img src="https://poggit.pmmp.io/shield.state/StopWords"></a>
 <br>
 [![](https://poggit.pmmp.io/shield.api/StopWords)](https://poggit.pmmp.io/p/StopWords)
-<a href="https://poggit.pmmp.io/p/StopWords"><img src="https://poggit.pmmp.io/shield.api/StopWords"></a>
+<a href="https://poggit.pmmp.io/p/StopWords"><img src="icon.png"></a>
