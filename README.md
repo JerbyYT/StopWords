@@ -13,3 +13,6 @@ Link: https://discord.gg/sPSquup
 
 [![](https://poggit.pmmp.io/shield.state/StopWords)](https://poggit.pmmp.io/p/StopWords)
 <a href="https://poggit.pmmp.io/p/StopWords"><img src="https://poggit.pmmp.io/shield.state/StopWords"></a>
+<br>
+[![](https://poggit.pmmp.io/shield.api/StopWords)](https://poggit.pmmp.io/p/StopWords)
+<a href="https://poggit.pmmp.io/p/StopWords"><img src="https://poggit.pmmp.io/shield.api/StopWords"></a>
