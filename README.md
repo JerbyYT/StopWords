@@ -10,3 +10,6 @@ How can I upload the plugin to the server? <br>
   <br>
 With questions or errors just over Discord on my server with me. <br>
 Link: https://discord.gg/sPSquup
+
+[![](https://poggit.pmmp.io/shield.state/StopWords)](https://poggit.pmmp.io/p/StopWords)
+<a href="https://poggit.pmmp.io/p/StopWords"><img src="https://poggit.pmmp.io/shield.state/StopWords"></a>
