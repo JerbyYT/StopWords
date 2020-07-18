@@ -11,12 +11,12 @@
 #                                                           #
 #############################################################
 
-# Farbig schreiben mit § + Farbcode!
-# Zumbeispiel §c für hell Rot.
+# Write in color with § + color code!
+# For example, §c for light red.
 
-nachricht: "§cDieses Wort ist auf diesem Server verboten!"
+message: "§cThis word is prohibited on this server!"
 
-Words:
+words:
   - .com
   - .de
   - .tk

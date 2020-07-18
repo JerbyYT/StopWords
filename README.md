@@ -1,18 +1,12 @@
-Do you want to ban words on your server? <br>
-You don't know how? <br>
-Then you can now ban words on your server. <br>
-Simply write the forbidden words in config.yml and restart the server. <br>
-  <br>
-How can I upload the plugin to the server? <br>
-1.) Put the .phar file or the folder (requires the plugin "DevTools") in the plugins folder. <br>
-2.) Restart the server. <br>
-3.) Have fun! <br>
-  <br>
-With questions or errors just over Discord on my server with me. <br>
-Link: https://discord.gg/sPSquup
+Du willst Wörter auf deinem Server verbieten?
+Du weißt aber nicht wie?
+Dann kannst du ab jetzt Wörter auf deinem Server verbieten.
+Einfach in die config.yml die Verbotenen Wörter schreiben und den Server neustarten.
 
-[![](https://poggit.pmmp.io/shield.state/StopWords)](https://poggit.pmmp.io/p/StopWords)
-<a href="https://poggit.pmmp.io/p/StopWords"><img src="https://poggit.pmmp.io/shield.state/StopWords"></a>
-<br>
-[![](https://poggit.pmmp.io/shield.api/StopWords)](https://poggit.pmmp.io/p/StopWords)
-<a href="https://poggit.pmmp.io/p/StopWords"><img src="icon.png"></a>
+Wie kann ich das Plugin auf den Server laden?
+1.) Lege die .phar datei oder den Ordner (benötgt das Plugin "DevTools") in den plugins Ordner.
+2.) Starte den Server neu.
+3.) Hab Spaß!
+
+Bei fragen oder errors einfach über Discord auf meinem Server bei mir.
+Link: https://discord.gg/sPSquup
